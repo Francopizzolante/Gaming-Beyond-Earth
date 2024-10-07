@@ -29,6 +29,6 @@
 
 [Radiation Hardening Chips For Outer Space](https://semiengineering.com/radiation-hardening-chips-for-outer-space/)
 
-[MQTT: The Standard for IoT Messaging]([https://semiengineering.com/radiation-hardening-chips-for-outer-space/](https://mqtt.org/))
+[MQTT: The Standard for IoT Messaging](https://mqtt.org/)
 
-[IEEE Standard for Low-Rate Wireless Networks]([https://semiengineering.com/radiation-hardening-chips-for-outer-space/](https://standards.ieee.org/ieee/802.15.4/7029/))
+[IEEE Standard for Low-Rate Wireless Networks](https://standards.ieee.org/ieee/802.15.4/7029/)
